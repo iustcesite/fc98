@@ -4,29 +4,28 @@ title: TA Profiles
 permalink: /profiles/
 ---
 
-C:\iust\iustcesite.github.io\_images
+C:\iust\iustcesite.github.io\index.html
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     <p>{{ta.name}}</p>
                     <p>{{ta.course}}</p>
                 </div>
-C:\iust\iustcesite.github.io
+C:\git\sauleh\fc98.sauleh.github\_data\people.yml
 teaching_assistants:
   - name: Amir Mohammad Ehsandar
-    profile_pic: /_images/amir-ehsandaar.jpg
+    profile_pic: /_images/avatar.png 
     course: Data Structure   
 
 
-
-<div style="width:70%; float: left">
-    <div class="profile-pic-gallary ">
-        <h2>Teaching Assistants</h2>
-        {% for ta in site.data.people.teaching_assistants %}
-        <div class="image--cover-container">
-            <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-            <p>{{ta.name}}</p>
+        <div style="width:70%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <p>{{ta.name}}</p>
+                </div>
+                {% endfor %}
+            </div>
         </div>
-        {% endfor %}
-    </div>
-</div>    
