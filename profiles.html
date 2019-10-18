@@ -3,34 +3,26 @@ layout: page
 title: TA Profiles
 permalink: /profiles/
 ---
-
-C:\iust\iustcesite.github.io\index.html
-    {% for ta in site.data.people.teaching_assistants %}
-    <div class="image--cover-container">
-        <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-        <p>{{ta.name}}</p>
-        <p>{{ta.course}}</p>
-    </div>
-    
-C:\iust\iustcesite.github.io\_data\people.yml
-    teaching_assistants:
-    - name: Amir Mohammad Ehsandar
-    profile_pic: /_images/avatar.png 
-    course: Data Structure   
-
-    - name: Alireza Moradi
-    profile_pic: /_images/avatar.png 
-    course: Data Structure  
-
-
-<div style="width:70%; float: left">
-    <div class="profile-pic-gallary ">
-        <h2>Teaching Assistants</h2>
-        {% for ta in site.data.people.teaching_assistants %}
-        <div class="image--cover-container">
-            <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-            <p>{{ta.name}}</p>
+<div class="Profiles">
+    <div>
+        <div style="width:30%; float: left">
+            <h2>Course instructor</h2>
+            <div class="image--cover-container">
+                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                <p>{{site.data.people.instructor.name}}</p>
+            </div>
         </div>
-        {% endfor %}
+
+        <div style="width:70%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <p>{{ta.name}}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
-</div>
+</div>    
