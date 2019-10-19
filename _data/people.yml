@@ -1,12 +1,14 @@
 instructor:
-  name: Marzieh Setak
+-name: Marzieh Setak
   profile_pic: /_images/avatar.png    
 
 teaching_assistants:
 -name: Amir Mohammad Ehsandar
   profile_pic: /_images/amir-ehsandaar.jpg
   course: Data Structure 
-
 -name: Sara Kodeiri
   profile_pic: /_images/sara-kodeiri.jpg
+  course: Data Structure 
+-name: Mahsa razavi
+  profile_pic: /_images/razavi.jpg
   course: Data Structure 
