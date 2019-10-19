@@ -3,6 +3,10 @@ instructor:
   profile_pic: /_images/avatar.png    
 
 teaching_assistants:
-  name: Amir Mohammad Ehsandar
+-name: Amir Mohammad Ehsandar
   profile_pic: /_images/amir-ehsandaar.jpg
+  course: Data Structure 
+
+-name: Sara Kodeiri
+  profile_pic: /_images/sara-kodeiri.jpg
   course: Data Structure 
