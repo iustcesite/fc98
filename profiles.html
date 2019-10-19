@@ -7,8 +7,10 @@ permalink: /profiles/
     <div style="width:70%; float: left">
         <h2>Teaching Assistants</h2>
         {% for ta in site.data.people.teaching_assistants %}
-        <div class="image--cover-container">        
-            |<img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">|<p>{{ta.name}}</p>|<p>{{ta.course}}</p>|
+        <div class="image--cover-container">
+        <table>        
+            <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover"><td><p>{{ta.name}}</p>|<p>{{ta.course}}</p></td>
+        </table>
         </div>
         {% endfor %}
     </div>
