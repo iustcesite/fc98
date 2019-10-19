@@ -9,7 +9,8 @@ permalink: /profiles/
         {% for ta in site.data.people.teaching_assistants %}
         <div class="image--cover-container">
         <table>        
-            <th><img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover"><p>{{ta.name}}</p></th><td><p>{{ta.course}}</p></td>  
+            <th><img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover"><p>{{ta.name}}</p></th><td><p>{{ta.course}}</p></td>   
+               
         </table>
         </div>
         {% endfor %}
