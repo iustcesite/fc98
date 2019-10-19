@@ -4,7 +4,7 @@ instructor:
 
 teaching_assistants:
 - name: Amir Mohammad Ehsandar
-  profile_pic: /_images/avatar.png 
+  profile_pic: /_images/amir-ehsandaar
   course: Data Structure   
 
 - name: Sara Kodeiri
@@ -14,3 +14,27 @@ teaching_assistants:
 - name: Mahsa razavi
   profile_pic: /_images/razavi.jpg
   course: Data Structure 
+  
+- name: Maryam Hashemi
+  profile_pic: /_images/avatar.png
+  course: 
+
+- name: Amirreza Amouie
+  profile_pic: /_images/amouie.jpg
+  course: Fundamentals of Computer Programming
+
+- name: Maryam Hashemi
+  profile_pic: /_images/avatar.png
+  course: 
+
+- name: Farid Shahinfar
+  profile_pic: /_images/avatar.png
+  course: 
+    
+- name: Mr.Mirshekari
+  profile_pic: /_images/avatar.png
+  course: 
+    
+- name: Alireza Azizi
+  profile_pic: /_images/avatar.png
+  course: 
