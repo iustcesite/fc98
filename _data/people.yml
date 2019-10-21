@@ -31,10 +31,46 @@ teaching_assistants:
   profile_pic: /_images/avatar.png
   course: 
     
-- name: Mr.Mirshekari
-  profile_pic: /_images/avatar.png
+- name: Keyvan Mirshekari
+  profile_pic: /_images/keyvan-mirshekari.jpg
   course: 
     
 - name: Alireza Azizi
   profile_pic: /_images/avatar.png
   course: 
+
+- name: Mahdi Moghaddami
+  profile_pic: /_images/mahdi-moghaddami.jpg
+  course:     
+
+- name: Mohammad Mahdi Abdollahpour
+  profile_pic: /_images/avatar.png
+  course:     
+
+- name: Mahsa Ghaderan
+  profile_pic: /_images/avatar.png
+  course:     
+
+- name: Mohammad Javad Pirhadi
+  profile_pic: /_images/pirhadi.jpg
+  course:     
+
+- name: Samin Fatehi
+  profile_pic: /_images/avatar.png
+  course:     
+
+- name: Zahra seyedi
+  profile_pic: /_images/avatar.png
+  course:     
+
+- name: Mr.Moradi
+  profile_pic: /_images/avatar.png
+  course:     
+
+- name: Mr.Zarharan
+  profile_pic: /_images/avatar.png
+  course:     
+
+- name: Mrs.Parisa Yalsavar
+  profile_pic: /_images/avatar.png
+  course:     
