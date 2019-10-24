@@ -7,8 +7,6 @@ permalink: /profiles/
     <div style="width:70%; float: left">
         <h2>Teaching Assistants</h2>
         <table>
-            {% for ta in site.data.people.teaching_assistants %}
-            <div class="image--cover-container">   
                 <tr>
                     <th>   
                         profile pic
@@ -20,6 +18,8 @@ permalink: /profiles/
                         course
                     <th/>
                 <tr/>
+            {% for ta in site.data.people.teaching_assistants %}
+            <div class="image--cover-container">   
                 <tr>
                     <td>
                         <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
