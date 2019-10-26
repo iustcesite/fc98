@@ -23,21 +23,21 @@ teaching_assistants:
   profile_pic: /_images/amouie.jpg
   course: Fundamentals of Computer Programming
 
-- name: Farid Shahinfar
+- name: Farbod Shahinfar
   profile_pic: /_images/avatar.png
-  course: 
+  course: Fundamentals of Computer Programming
     
 - name: Mr.Mirshekari
   profile_pic: /_images/keyvan-mirshekari.jpg
   course: Data Structure 
     
 - name: Alireza Azizi
-  profile_pic: /_images/avatar.png
+  profile_pic: /_images/azizi.png
   course: 
 
 - name: Mahdi Moghaddami
   profile_pic: /_images/mahdi-moghaddami.jpg
-  course:     
+  course: Fundamentals of Computer Programming & Data Structure   
 
 - name: Mohammad Mahdi Abdollahpour
   profile_pic: /_images/avatar.png
@@ -59,9 +59,9 @@ teaching_assistants:
   profile_pic: /_images/avatar.png
   course:     
 
-- name: Mr.Moradi
-  profile_pic: /_images/avatar.png
-  course:     
+- name: Alireza Moradi
+  profile_pic: /_images/moradi.png
+  course: Data Structure   
 
 - name: Mr.Zarharan
   profile_pic: /_images/avatar.png
