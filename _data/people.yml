@@ -27,7 +27,7 @@ teaching_assistants:
   profile_pic: /_images/avatar.png
   course: Fundamentals of Computer Programming
     
-- name: Mr.Mirshekari
+- name: Keyvan Mirshekari
   profile_pic: /_images/keyvan-mirshekari.jpg
   course: Data Structure 
     
@@ -37,7 +37,7 @@ teaching_assistants:
 
 - name: Mahdi Moghaddami
   profile_pic: /_images/mahdi-moghaddami.jpg
-  course: Fundamentals of Computer Programming & Data Structure   
+  course: FC & Data Structure   
 
 - name: Mohammad Mahdi Abdollahpour
   profile_pic: /_images/avatar.png
@@ -63,7 +63,7 @@ teaching_assistants:
   profile_pic: /_images/moradi.jpg
   course: Data Structure   
 
-- name: Mr.Zarharan
+- name: Majid Zarharan
   profile_pic: /_images/avatar.png
   course:     
 
