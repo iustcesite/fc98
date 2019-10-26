@@ -32,8 +32,8 @@ teaching_assistants:
   course: Data Structure 
     
 - name: Alireza Azizi
-  profile_pic: /_images/azizi.png
-  course: 
+  profile_pic: /_images/azizi.jpg
+  course: Fundamentals of Computer Programming
 
 - name: Mahdi Moghaddami
   profile_pic: /_images/mahdi-moghaddami.jpg
@@ -60,7 +60,7 @@ teaching_assistants:
   course:     
 
 - name: Alireza Moradi
-  profile_pic: /_images/moradi.png
+  profile_pic: /_images/moradi.jpg
   course: Data Structure   
 
 - name: Mr.Zarharan
