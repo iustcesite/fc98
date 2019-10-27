@@ -15,16 +15,16 @@ teaching_assistants:
   profile_pic: /_images/razavi.jpg
   course: Data Structure 
   
-- name: Maryam Hashemi
+- name: Maryam Sadat Hashemi
   profile_pic: /_images/avatar.png
-  course: 
+  course: FC & Data Structure
 
 - name: Amirreza Amouie
   profile_pic: /_images/amouie.jpg
   course: Fundamentals of Computer Programming
 
 - name: Farbod Shahinfar
-  profile_pic: /_images/avatar.png
+  profile_pic: /_images/shahinfar.jpg
   course: Fundamentals of Computer Programming
     
 - name: Keyvan Mirshekari
@@ -52,12 +52,12 @@ teaching_assistants:
   course: Data Structure     
 
 - name: Samin Fatehi
-  profile_pic: /_images/avatar.png
+  profile_pic: /_images/fatehi.jpg
   course:     
 
 - name: Zahra seyedi
   profile_pic: /_images/avatar.png
-  course:     
+  course: Neuro-linguistic Programming    
 
 - name: Alireza Moradi
   profile_pic: /_images/moradi.jpg
