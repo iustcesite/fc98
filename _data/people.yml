@@ -3,78 +3,79 @@ instructor:
   profile_pic: /_images/avatar.png    
 
 teaching_assistants:
-- name: Amir Mohammad Ehsandar
-  profile_pic: /_images/amir-ehsandaar.jpg
-  course: Data Structure   
-
-- name: Sara Kodeiri
-  profile_pic: /_images/sara-kodeiri.jpg
-  course: Data Structure
-
-- name: Mahsa razavi
-  profile_pic: /_images/razavi.jpg
-  course: Data Structure 
-  
-- name: Maryam Sadat Hashemi
-  profile_pic: /_images/avatar.png
-  course: FC & Data Structure
-
-- name: Amirreza Amouie
-  profile_pic: /_images/amouie.jpg
-  course: Fundamentals of Computer Programming
-
-- name: Farbod Shahinfar
-  profile_pic: /_images/shahinfar.jpg
-  course: Fundamentals of Computer Programming
-    
-- name: Keyvan Mirshekari
-  profile_pic: /_images/keyvan-mirshekari.jpg
-  course: Data Structure 
-    
-- name: Alireza Azizi
-  profile_pic: /_images/azizi.jpg
-  course: Fundamentals of Computer Programming
-
-- name: Mahdi Moghaddami
-  profile_pic: /_images/mahdi-moghaddami.jpg
-  course: FC & Data Structure   
 
 - name: Mohammad Mahdi Abdollahpour
   profile_pic: /_images/avatar.png
   course: Data Structure     
 
-- name: Mahsa Ghaderan
-  profile_pic: /_images/avatar.png
-  course: Data Structure     
+- name: Amirreza Amouie
+  profile_pic: /_images/amouie.jpg
+  course: Fundamentals of Computer Programming
 
-- name: Mohammad Javad Pirhadi
-  profile_pic: /_images/pirhadi.jpg
-  course: Data Structure     
+- name: Alireza Azizi
+  profile_pic: /_images/azizi.jpg
+  course: Fundamentals of Computer Programming
+
+- name: Amir Mohammad Ehsandar
+  profile_pic: /_images/amir-ehsandaar.jpg
+  course: Data Structure   
 
 - name: Samin Fatehi
   profile_pic: /_images/fatehi.jpg
-  course:     
-
-- name: Zahra seyedi
+  course: deep learning 
+  
+- name: Mahsa Ghaderan
   profile_pic: /_images/avatar.png
-  course: Neuro-linguistic Programming    
+  course: Data Structure  
+
+- name: Maryam Sadat Hashemi
+  profile_pic: /_images/avatar.png
+  course: FC & Data Structure
+
+- name: Sara Kodeiri
+  profile_pic: /_images/sara-kodeiri.jpg
+  course: Data Structure
+    
+- name: Mrs.Mahmudi
+  profile_pic: /_images/avatar.png
+  course: Data Structure  
+
+- name: Keyvan Mirshekari
+  profile_pic: /_images/keyvan-mirshekari.jpg
+  course: Data Structure 
+    
+- name: Mrs.Mirzaii
+  profile_pic: /_images/avatar.png
+  course: Data Structure  
+
+- name: Mahdi Moghaddami
+  profile_pic: /_images/mahdi-moghaddami.jpg
+  course: FC & Data Structure   
 
 - name: Alireza Moradi
   profile_pic: /_images/moradi.jpg
   course: Data Structure   
 
-- name: Majid Zarharan
-  profile_pic: /_images/avatar.png
-  course: Fundamentals of Computer Programming     
+- name: Mohammad Javad Pirhadi
+  profile_pic: /_images/pirhadi.jpg
+  course: Data Structure     
 
+- name: Mahsa razavi
+  profile_pic: /_images/razavi.jpg
+  course: Data Structure 
+  
+- name: Zahra seyedi
+  profile_pic: /_images/avatar.png
+  course: Neuro-linguistic Programming    
+
+- name: Farbod Shahinfar
+  profile_pic: /_images/shahinfar.jpg
+  course: Fundamentals of Computer Programming
+    
 - name: Parisa Yalsavar
   profile_pic: /_images/avatar.png
   course: Data Structure     
 
-- name: Mrs.Mahmudi
+- name: Majid Zarharan
   profile_pic: /_images/avatar.png
-  course: Data Structure  
-
-- name: Mrs.Mirzaii
-  profile_pic: /_images/avatar.png
-  course: Data Structure  
+  course: Fundamentals of Computer Programming     
